@@ -1,0 +1,23 @@
+body{
+    background-color: #e4f3f9;
+    margin: 0;
+    text-align: center;
+    font-family:'Roboto Condensed', sans-serif;
+}
+table{
+    text-align: center;
+    margin-left: 40%;
+    margin-top: 50px;
+    font-size:large;
+}
+td{
+    color: antiquewhite;
+}
+h1{
+    font-size: xx-large;
+    font-family: 'Courier New', Courier, monospace;
+    color: whitesmoke;
+}
+img{
+    margin-top: 30px;
+}
